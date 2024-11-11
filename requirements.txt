@@ -1,0 +1,15 @@
+psutil
+colorama
+beautifulsoup4
+requests
+opencv-python
+onnxruntime
+onnxruntime-gpu
+insightface
+numpy
+psycopg2
+flask
+pyfiglet
+HiveWebCrawler
+instaloader
+argparse
